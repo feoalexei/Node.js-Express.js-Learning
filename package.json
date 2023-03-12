@@ -1,0 +1,15 @@
+{
+  "name": "meadowlark-travel",
+  "version": "1.0.0",
+  "description": "express tutorial project",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleksii Piehanov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.2"
+  }
+}
